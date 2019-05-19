@@ -1,0 +1,19 @@
+{
+    "name": "Jesús David Sánchez",
+    "resume": "Information Systems Engineer, consultor and full stack developer with knowledge in several popular technologies in the industry. Fluent English/Spanish, aptitudes and experience in IT roles such as Team Lead, Technical Lead, Business Analyst, Automation tester and Consultor with the capacity to implement projects in several kind of technology/methodology in different business areas.<br>With soft skills to work with teams at any level, trying to take new challenges and proposing new ideas and deals, always searching for the improvement and satisfaction of the clients as one of my principles.",
+    "mobile": "+57 3 305 754 48 41",
+    "email": "jdsancheze@outlook.com",
+    "linkedin": "www.linkedin.com/in/jdsancheze",
+    "github": "https://github.com/Blesfia",
+    "education": [
+        {
+            "type": { "label": "BACHELOR DEGREE", "value": "Information and Systems Engineering" },
+            "place": { "label": "UNIVERSITY", "value": "Universidad Nacional de Colombia" },
+            "location": "Colombia"
+        }
+    ],
+    "languages": [
+        { "code": "es", "level": "100" },
+        { "code": "en", "level": "50" }
+    ]
+}
